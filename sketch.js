@@ -1,5 +1,5 @@
-var path,boy,;
-var pathImg,boyImg,;
+var path,boy;
+var pathImg,boyImg;
 //game states
 var PLAY=1;
 var END=0;
